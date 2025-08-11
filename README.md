@@ -9,10 +9,10 @@ git clone https://github.com/Nila04451/postalcode.git
 
  // install required dependencies
  
-cd postalcode
-npm install
-npm install axios
-npm run dev
+//  cd postalcode
+//  npm install
+//  npm install axios
+//  npm run dev
 
 <img width="702" height="495" alt="Screenshot 2025-08-11 142414" src="https://github.com/user-attachments/assets/fec5104a-ae1d-4693-be78-69a446c61d85" />
 
