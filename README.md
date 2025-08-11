@@ -4,7 +4,7 @@ A responsive React application for looking up Indian postal locations with an at
 
 
 
-git clone https://github.com/Nila04451/indian-postal-code-lookup.git
+git clone https://github.com/Nila04451/postalcode.git
 
 
  // install required dependencies
